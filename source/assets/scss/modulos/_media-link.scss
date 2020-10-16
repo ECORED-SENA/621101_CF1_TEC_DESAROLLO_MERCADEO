@@ -1,0 +1,57 @@
+//color de fondo
+$media_link-cl: #EDF2F9;
+
+//textura de fondo
+
+.bg-texture {
+  background-image: url("../images/icons/componentes/bg-image.svg");
+  background-size: contain;
+  background-repeat: repeat;
+}
+
+//Tamaños del icono //
+.icon--sm {
+  width: 45px !important;
+  img {
+    width: 45px !important;
+  }
+}
+.icon--md { 
+  width: 65px !important;
+  img {
+    width: 65px !important;
+  }
+}
+.icon--lg {
+  width: 95px !important;
+  img {
+    width: 95px !important;
+  }
+}
+
+
+
+.media_link {
+  width: 100%; 
+  background-color: $media_link-cl;
+  border-radius: 7px;   
+  display: flex !important;
+  justify-content: start;
+  align-items: center;
+  padding: 1.5rem 2rem;       
+  
+}
+
+.media_link__icon {
+  width: 45px;
+  margin-right: 1rem;  
+  img {
+    width: 45px;
+  }
+}
+.media_link__txt {
+  color: #12263F;
+  p {
+    margin: 0 !important;
+  }  
+}

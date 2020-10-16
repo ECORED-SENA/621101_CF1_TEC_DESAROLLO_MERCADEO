@@ -1,0 +1,88 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "plataforma_estrategica",
+    "title": "1. Plataforma estratégica ",
+    "breadcrumb": ["Inicio","Plataforma estratégica"],
+    "path": "pages/tema-1.html"    
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "organizacion",
+    "title": "1.1 Organización",
+    "breadcrumb": ["Inicio","Organización"],
+    "path": "pages/tema-1-1.html"   
+  },
+  { 
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "direccionamiento_estrategico",
+    "title": "1.2 Direccionamiento estratégico",
+    "breadcrumb": ["Inicio","Direccionamiento estratégico"],
+    "path": "pages/tema-1-2.html"   
+  },
+  { 
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "entorno_organizacional",
+    "title": "1.3 Entorno organizacional",
+    "breadcrumb": ["Inicio","Entorno organizacional"],
+    "path": "pages/tema-1-3.html"   
+  },
+  { 
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "analisis_situacional",
+    "title": "1.4 Análisis situacional",
+    "breadcrumb": ["Inicio","Análisis situacional"],
+    "path": "pages/tema-1-4.html"   
+  },
+  { 
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "mezcla_mercadeo",
+    "title": "2. Mezcla de Mercadeo.",
+    "breadcrumb": ["Inicio","Mezcla de Mercadeo"],
+    "path": "pages/tema-2.html"   
+  },
+  { 
+    "id": 7,
+    "icon": "fa fa-file-text",
+    "slug": "producto",
+    "title": "2.1 Producto",
+    "breadcrumb": ["Inicio","Producto"],
+    "path": "pages/tema-2-1.html"   
+  },
+  { 
+    "id": 8,
+    "icon": "fa fa-file-text",
+    "slug": "precio",
+    "title": "2.2 Precio",
+    "breadcrumb": ["Inicio","Precio"],
+    "path": "pages/tema-2-2.html"   
+  },
+  { 
+    "id": 9,
+    "icon": "fa fa-file-text",
+    "slug": "plaza_distribucion",
+    "title": "2.3 Plaza y distribución",
+    "breadcrumb": ["Inicio","Plaza y distribución"],
+    "path": "pages/tema-2-3.html"   
+  },
+  { 
+    "id": 10,
+    "icon": "fa fa-file-text",
+    "slug": "promocion_distribucion",
+    "title": "2.4 Promoción y publicidad",
+    "breadcrumb": ["Inicio","Promoción y publicidad"],
+    "path": "pages/tema-2-4.html"   
+  } 
+]
