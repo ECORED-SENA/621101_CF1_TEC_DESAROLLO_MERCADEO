@@ -543,7 +543,7 @@
         //todo AÑADIR LINK AL BOTON
     .row.mb-5.justify-content-center
       .col-lg-4
-        a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/dowloads/CIIU_Rev4ac.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -598,7 +598,7 @@
         //todo AÑADIR LINK AL BOTON
     .row.mb-5.justify-content-center
       .col-lg-4
-        a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=IZd1CCER98s" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
