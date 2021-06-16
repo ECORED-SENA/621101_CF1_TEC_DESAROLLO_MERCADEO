@@ -384,7 +384,7 @@ export default {
     .row.mb-5.justify-content-center
       .col-lg-10
         figure.mb-5
-          img(src="@/assets/curso/img47.svg", alt="Texto que describa la imagen")
+          img(src="@/assets/curso/img2.svg", alt="Texto que describa la imagen")
     p.mb-5 La acción y efecto de promover se conoce como promoción, y son actividades que se desarrollan con la intención de dar a conocer un producto o de incrementar su comercialización y venta.
         br
         br

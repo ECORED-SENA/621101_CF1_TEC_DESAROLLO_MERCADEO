@@ -1,8 +1,8 @@
 export default {
   global: {
     componenteFormativo: 'Direccionamiento estratégico',
-    // descripcionCurso:
-    //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
+    descripcionCurso:
+      'A través de este componente formativo el aprendiz debe apropiar los elementos de entrada requeridos para la elaboración del direccionamiento estratégico y las variables de la mezcla de mercadeo para su idea de negocio o proyecto productivo. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     // fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -102,11 +102,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      // {
-      //   icono: 'fas fa-download',
-      //   titulo: 'Descargar material',
-      //   download: 'downloads/material.zip',
-      // },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
