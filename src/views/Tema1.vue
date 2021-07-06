@@ -216,7 +216,7 @@
     p.mb-5 Con este ejemplo se analiza si la declaración de Misión da respuesta a las preguntas formuladas: 
                   //TODO!------------ CAMBIAR LA IMAGEN POR LA NUEVA PROPUESTA DEL DISEÑADOR---------------------
     .row.mb-5.justify-content-center
-      .col-lg-8
+      .col-lg-10
         figure.mb-5
           img(src="@/assets/curso/img16.svg", alt="Texto que describa la imagen")
     p.mb-5 Las declaraciones de misión deben estar orientadas al mercado y definidas en términos de satisfacer las necesidades básicas de los clientes. Los productos y las tecnologías poco a poco se vuelven obsoletos, pero las necesidades del mercado podrían durar para siempre. Por ejemplo, 
@@ -539,7 +539,7 @@
         //todo AÑADIR LINK AL BOTON
     .row.mb-5.justify-content-center
       .col-lg-4
-        a.anexo.mb-4(:href="obtenerLink('/dowloads/CIIU_Rev4ac.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/normativa.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
