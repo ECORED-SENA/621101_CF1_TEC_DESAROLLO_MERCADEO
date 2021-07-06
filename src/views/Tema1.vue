@@ -13,7 +13,7 @@
     #t_1_1.titulo-segundo
       .h3 1.1 Organización
     .row.mb-5.justify-content-center
-      .col-lg-10
+      .col-lg-8
         figure.mb-5
           img(src="@/assets/curso/img1.svg", alt="Texto que describa la imagen")
     p.mb-5 Una organización es una empresa, institución o industria dedicada a actividades con fines económicos o comerciales para satisfacer las necesidades de bienes o servicios de los demandantes, obteniendo utilidades. 
@@ -30,7 +30,7 @@
       br
       |Incluye logo, slogan, tarjetas de presentación, uniformes, membretes, entre otros.
     .row.mb-5.justify-content-center
-      .col-lg-6
+      .col-lg-4
         figure.mb-5
           img(src="@/assets/curso/img2.svg", alt="Texto que describa la imagen")
     p.mb-5 La imagen corporativa de una compañía incluye la definición de quienes son como empresa. En el siguiente link se define quien es la empresa Alquería realizando una descripción desde sus inicios, fundadores y el sueño que inicio este proyecto de convertirse en la gran empresa que es hoy en día.
@@ -57,7 +57,7 @@
     p.mb-5 En las organizaciones en general suele existir una jerarquía que determina el tipo de acciones que se realizan dentro de ella. 
     .row.mb-5.justify-content-center
       .col-lg-2
-        figure.mb-5
+        figure
           img(src="@/assets/curso/img5.svg", alt="Texto que describa la imagen")
       .col-lg-6
         ol.lista-ol--cuadro
@@ -97,7 +97,7 @@
     #t_1_2.titulo-segundo
       .h3 1.2 Direccionamiento estratégico
     .row.mb-5.justify-content-center
-      .col-lg-10
+      .col-lg-8
         figure.mb-5
           img(src="@/assets/curso/img9.svg", alt="Texto que describa la imagen")
     p.mb-5 Es el arte y la ciencia de formular, implantar y evaluar las decisiones a través de las funciones que permitan a una empresa lograr los objetivos. Se centra en la gerencia, el mercadeo, las finanzas, la contabilidad, la producción, las operaciones, la investigación y desarrollo y los sistemas de investigación para lograr el éxito de la empresa.
@@ -106,7 +106,7 @@
     .row.mb-5.justify-content-center
       .col-lg-7
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img10.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img10.svg' alt='AvatarTop').img-size
           .tarjeta.tarjeta--gris
             .p-4.py-5
               p Los objetivos de marketing se supeditarán siempre a los objetivos y estrategias corporativas.
@@ -202,7 +202,7 @@
       h4 Para la construcción de la misión se deben responder las siguientes preguntas: 
                 //TODO!------------ CAMBIAR LA IMAGEN POR LA NUEVA PROPUESTA DEL DISEÑADOR---------------------
     .row.mb-5.justify-content-center
-      .col-lg-8
+      .col-lg-10
         figure.mb-5
           img(src="@/assets/curso/img14.svg", alt="Texto que describa la imagen")
     p.mb-5 La empresa 
@@ -277,7 +277,7 @@
             br
             | Por seguridad, oportunidad y cubrimiento en América, con presencia competitiva a nivel mundial.
     .row.mb-5.justify-content-center
-      .col-lg-8
+      .col-lg-6
         figure.mb-5
           img(src="@/assets/curso/img21.svg", alt="Texto que describa la imagen") 
     p.mb-5 Un objetivo define a dónde se pretende llegar al final. Es el resultado esperado después de cumplir con un plan estratégico.  Dentro de una correcta planeación, se deben definir tanto el objetivo de la compañía, como objetivos para cada departamento, los cuales deben ser claros y precisos. (Prettel,2016).
@@ -418,7 +418,7 @@
             | Innovación permanente para generar ventajas competitivas y continuar consolidando el posicionamiento de la marca.
     .h4 Estrategias
     .row.mb-5.justify-content-center
-      .col-lg-8
+      .col-lg-6
         figure.mb-5
           img(src="@/assets/curso/img26.svg", alt="Texto que describa la imagen")
     p.mb-5 Son acciones con las que se espera lograr un resultado y que pueden estar relacionadas entre sí. Es decir, toda estrategia mediante un programa sistemático a cumplir; debe conducir al logro de un objetivo, alcanzable (Prettel, 2016).
@@ -427,7 +427,7 @@
       | Las estrategias deben desarrollar una ventaja competitiva de una empresa y la acentúe, de forma que ésta logre crecer y expandir su mercado reduciendo la competencia.
     .h4 Tácticas
     .row.mb-5.justify-content-center
-      .col-lg-8
+      .col-lg-6
         figure.mb-5
           img(src="@/assets/curso/img27.svg", alt="Texto que describa la imagen")
     p.mb-5 La táctica determina la manera como se va a implementar la estrategia. Son todos los elementos que intervienen en el plan de acción (Prettel, 2016).
@@ -451,7 +451,7 @@
     #t_1_3.titulo-segundo
       .h3 1.3 Entorno organizacional
     .row.mb-5.justify-content-center
-      .col-lg-8
+      .col-lg-6
         figure.mb-5
           img(src="@/assets/curso/img28.svg", alt="Texto que describa la imagen")
     p.mb-5 El entorno organizacional hace referencia a los factores externos que influye en la empresa y condicionan su actividad. 
@@ -664,7 +664,7 @@
     p.mb-5 Los grupos de interés o públicos deben ser tenidos en cuenta al evaluar en entorno. Las instituciones, los medios de comunicación, el gobierno o los empleados.
     .h4 Clases de entornos
     .row.mb-5.justify-content-center
-      .col-lg-8
+      .col-lg-6
         figure.mb-5
           img(src="@/assets/curso/img33.svg", alt="Texto que describa la imagen")
     .d-flex.mb-2
@@ -682,7 +682,7 @@
     #t_1_4.titulo-segundo
       .h3 1.4 Análisis situacional
     .row.mb-5.justify-content-center
-      .col-lg-8
+      .col-lg-6 
         figure.mb-5
           img(src="@/assets/curso/img34.svg", alt="Texto que describa la imagen")
     p.mb-5  El análisis situacional de una organización incluye el análisis interno que son debilidades y fortalezas y el análisis externo oportunidades y amenazas, para con esto a través de herramientas diagnósticas como la matriz DOFA cruzada, encontrar las estrategias que la organización necesita para lograr los objetivos planteados en el direccionamiento estratégico. 
@@ -764,7 +764,7 @@
     .row.mb-5.justify-content-center
       .col-lg-6
         figure.mb-5
-          img(src="@/assets/curso/img37.jpg", alt="Texto que describa la imagen")
+          img(src="@/assets/curso/img37.svg", alt="Texto que describa la imagen")
 
 
 
