@@ -22,7 +22,7 @@
       |El artículo 25 del Código de Comercio de Colombia lo define como: 
       b “Toda actividad económica organizada para la producción, transformación, circulación, administración o custodia de bienes o para la prestación de servicio”.
     .h4 Identidad corporativa
-    p.mb-5 La identidad corporativa es el conjunto de atributos asumidos como propios por la organización, este conjunto de atributos constituye un discurso de identidad que se desarrolla de un modo análogo al de la identidad personal del individuo. (Chavez,2005)
+    p.mb-5 La identidad corporativa es el conjunto de atributos asumidos como propios por la organización, este conjunto de atributos constituye un discurso de identidad que se desarrolla de un modo análogo al de la identidad personal del individuo. (Chavez, 2005)
       br
       br
       |La identidad visual es la manifestación física de la marca. Hace referencia a los aspectos visuales de la identidad de una organización.
@@ -47,7 +47,7 @@
         figure.mb-5
           img(src="@/assets/curso/img3.svg", alt="Texto que describa la imagen")
         figcaption Fuente:  https://www.alqueria.com.co/conocenos/compania/estructura-general-alqueria/ 
-    p.mb-5 En Las empresas de marketing exitosas los clientes están en la cima de la pirámide, seguidos por los empleados de primera línea, que son quienes conocen, atienden y satisfacen a los clientes, luego la gerencia media cuyo trabajo es apoyar a los empleados de primera línea para que atiendan bien al cliente y la alta dirección quien contrata profesionales aptos para ocupar la gerencia media y apoyarlos (Kotler, 2016). 
+    p.mb-5 En las empresas de marketing exitosas los clientes están en la cima de la pirámide, seguidos por los empleados de primera línea, que son quienes conocen, atienden y satisfacen a los clientes, luego la gerencia media cuyo trabajo es apoyar a los empleados de primera línea para que atiendan bien al cliente y la alta dirección quien contrata profesionales aptos para ocupar la gerencia media y apoyarlos (Kotler, 2016). 
     .row.mb-5.justify-content-center
       .col-lg-6
         figure.mb-5
@@ -80,20 +80,20 @@
         .d-flex.p-3
           img(src="@/assets/curso/img6.svg", alt="Texto que describa la imagen" style="width:73px").me-3
           p.d-block.my-auto 
-            b Planeación operativa:
-            b-none Consiste en seleccionar medios para perseguir metas establecidas. Por ejemplo, planear para elaborar una cantidad de un producto específico por el director de la planta. Suele tener un horizonte a corto plazo (hasta un año). 
+            b Planeación operativa: 
+            b-none consiste en seleccionar medios para perseguir metas establecidas. Por ejemplo, planear para elaborar una cantidad de un producto específico por el director de la planta. Suele tener un horizonte a corto plazo (hasta un año). 
       .col-lg-12
         .d-flex.p-3
           img(src="@/assets/curso/img7.svg", alt="Texto que describa la imagen" style="width:73px").me-3
           p.d-block.my-auto 
-            b Planeación táctica: 
-            b-none En ella se eligen los medios y las metas para lograr objetivos establecidos. Por ejemplo, si el objetivo de una empresa es obtener la supremacía en ventas dentro de los siguientes cinco años, tal objetivo debe estar a cargo del departamento de ventas. Este tipo de planeación tiende a concentrarse en el mediano plazo, es decir, de dos a cinco años. 
+            b Planeación táctica:   
+            b-none en ella se eligen los medios y las metas para lograr objetivos establecidos. Por ejemplo, si el objetivo de una empresa es obtener la supremacía en ventas dentro de los siguientes cinco años, tal objetivo debe estar a cargo del departamento de ventas. Este tipo de planeación tiende a concentrarse en el mediano plazo, es decir, de dos a cinco años. 
       .col-lg-12
         .d-flex.p-3
           img(src="@/assets/curso/img8.svg", alt="Texto que describa la imagen" style="width:73px").me-3
           p.d-block.my-auto 
-            b Planeación estratégica:
-            b-none Consiste en seleccionar medios, objetivos y metas. Este tipo de planeación suele ser a largo plazo, es decir, a cinco años o más. 
+            b Planeación estratégica:  
+            b-none consiste en seleccionar medios, objetivos y metas. Este tipo de planeación suele ser a largo plazo, es decir, a cinco años o más. 
     #t_1_2.titulo-segundo
       .h3 1.2 Direccionamiento estratégico
     .row.mb-5.justify-content-center
@@ -509,7 +509,7 @@
         span A
       p
         b.h5 Entorno político
-    p “Consiste en leyes, oficinas gubernamentales y grupos de presión que influyen y limitan tanto a las organizaciones como a los particulares. En ocasiones la legislación también genera nuevas oportunidades para las empresas. Existen dos tendencias principales: el aumento de leyes que rigen a las organizaciones y el crecimiento de grupos con intereses especiales”. (Keller,2016)
+    p “Consiste en leyes, oficinas gubernamentales y grupos de presión que influyen y limitan tanto a las organizaciones como a los particulares. En ocasiones la legislación también genera nuevas oportunidades para las empresas. Existen dos tendencias principales: el aumento de leyes que rigen a las organizaciones y el crecimiento de grupos con intereses especiales”. (Keller, 2016)
       br
       br
       |Se refiere a las normas legales, leyes, decretos, ordenanzas, resoluciones del país en donde se desarrolle la organización. Deben estar vigentes o en curso en el congreso. Decretadas por asambleas, municipios, gobierno central o local y las instituciones descentralizadas o departamentos administrativos.
@@ -520,7 +520,7 @@
       .lista-ol--cuadro__vineta
         span B
       p
-        b.h5 Entorno político
+        b.h5 Entorno económico
     p.mb-5 La economía se ocupa de las cuestiones que surgen en relación con la satisfacción de las necesidades de los individuos y la sociedad. La satisfacción de necesidades materiales y no materiales obliga a sus miembros a llevar a cabo determinadas actividades productivas. mediante estas actividades se obtienen los bienes y los servicios que se necesitan.
       br
       br
@@ -623,7 +623,7 @@
       br
       |El comercio electrónico (e-Commerce) ofrece canales digitales y herramientas para vender, comprar y transferir información. Sectores como: transporte, comercio (incluido el turismo), tecnología, comunicaciones, servicios financieros, educación, servicios públicos, suscripciones a tv y vivienda, son algunos de los que más utilizan esta tecnología. Lo que es una señal de alarma para aquellas compañías que pertenecen a estos sectores y que no están haciendo uso de Internet. (Forero, 2017). 
     .h4 Microambiente
-    p.mb-5 El microambiente o microentorno incluye a todos los participantes cercanos a la compañía que afectan, ya sea de manera positiva o negativa, su capacidad para establecer relaciones con sus clientes y crear valor para ellos. (Kotler,2017)
+    p.mb-5 El microambiente o microentorno incluye a todos los participantes cercanos a la compañía que afectan, ya sea de manera positiva o negativa, su capacidad para establecer relaciones con sus clientes y crear valor para ellos. (Kotler, 2017)
       br
       br
       |Los consumidores, competidores, proveedores, distribuidores y grupos de interés son las variables del microentorno. Por lo altamente evolutivas, dificultan su control. Lo anterior, hacen necesario su constante investigación. Los consumidores, evolucionan de manera constante por la presión de la tecnología, que incide, así mismo, en los cambios en sus patrones culturales que los llevan a comprar otros bienes. Los competidores y en aras de generar respuesta a los diferentes hábitos de compra de sus consumidores también cambiar en sus objetivos, estructuras organizacionales, y en sus programas estratégicos (mezcla de marketing). Los proveedores y los distribuidores también cambian periódicamente, lo que hace necesario su seguimiento y control. (Prettel, 2016).
@@ -705,7 +705,7 @@
         span B
       p
         b.h5 Variables semicontrolables
-    p.mb-5 Proveedores, intermediarios, clientes y públicos o steckholders.
+    p.mb-5 Proveedores, intermediarios, clientes y públicos o stakeholders.
     .d-flex.mb-2
       .lista-ol--cuadro__vineta
         span C

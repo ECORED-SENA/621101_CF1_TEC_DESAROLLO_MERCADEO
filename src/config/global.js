@@ -211,33 +211,33 @@ export default {
       texto:
         'Chiavenato, 2017, Planeación estratégica. Fundamentos y aplicaciones.',
       tipo: 'Libro',
-      descarga: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5345&pg=1',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5345&pg=1',
     },
     {
       texto: 'Forero, S. 2017 Fundamentos de mercadeo',
       tipo: 'Libro',
-      descarga: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5045&pg=5',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5045&pg=5',
     },
     {
       texto: 'Kotler,2016, Dirección de marketing',
       tipo: 'Libro',
-      descarga: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4273&pg=1',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4273&pg=1',
     },
     {
       texto: 'Kotler & Amstrong, 2017 Fundamentos de marketing',
       tipo: 'Libro',
-      descarga: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4393&pg=1',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4393&pg=1',
     },
     {
       texto: 'Prettel,2016, Marketing, una herramienta para el crecimiento.',
       tipo: 'Libro',
-      descarga: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5684&pg=1',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5684&pg=1',
     },
     {
       texto:
         'Rodriguez,2017, Cómo aplicarla planeación estratégica a la pequeña y mediana empresas.',
       tipo: 'Libro',
-      descarga: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=3233&pg=1',
+      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=3233&pg=1',
     },
   ],
   creditos: {

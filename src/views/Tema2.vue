@@ -62,31 +62,31 @@
       p.mb-5 Según (Stanton,2007) Se requieren estrategias para decidir qué productos hay que introducir, para administrar los productos existentes en el tiempo y para desechar los productos que no son viables. También hay que tomar decisiones estratégicas en lo relativo al manejo de marca, el empaque y otras características del producto, como las garantías.
       .h4 Servicios
       p.mb-5 El producto no material se denomina servicio. Son actividades identificables, intangibles y perecederas resultado de esfuerzos humanos que producen un hecho, que implican la participación del cliente y que no es posible poseer físicamente, ni transportarlos o almacenarlos. Por ejemplo: un Smartphone es un producto, la conexión a Internet de Tigo es un servicio.
-      .h4 Caracteristicas
+      .h4 Características
       ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta
               span 1
             p 
-              b Intangibilidad:
+              b Intangibilidad: 
               b-none no se pueden ver, degustar, tocar, escuchar u oler antes de comprarse. Solo se aprecia después de haber sido prestado.
           li 
             .lista-ol--cuadro__vineta
               span 2
             p 
-              b Inseparabilidad:
+              b Inseparabilidad: 
               b-none se producen, venden y consumen al mismo tiempo. El empresario y el cliente son parte de la acción.
           li 
             .lista-ol--cuadro__vineta
               span 3
             p 
-              b Heterogeneidad:
+              b Heterogeneidad: 
               b-none todos son diferentes y depende de quién los presta, cuando y donde, debido al factor humano.
           li 
             .lista-ol--cuadro__vineta
               span 4
             p 
-              b Carácter perecedero:
+              b Carácter perecedero: 
               b-none  no pueden durar en el tiempo No se pueden conservar, almacenar o guardar en inventario
       #t_2_2.titulo-segundo
         .h3 2.2 Precio
